@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "4.3.5",
-  "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
+  "name": "pgg-shop-checker",
+  "version": "1.0.0",
+  "description": "Checks the availability of the goods on the pgg store website (https://sklep.pgg.pl/)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/sebastiantokarski/pgg-shop-checker"
   },
   "scripts": {
     "build": "node utils/build.js",
